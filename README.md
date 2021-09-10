@@ -33,4 +33,4 @@
 ## Get In Touch
 <a href="https://www.linkedin.com/in/tharindi-hansika-6896881b6/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 <a href=""/></a>
-<a href=""><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href="https://www.facebook.com/tharindi.hansika.37"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
