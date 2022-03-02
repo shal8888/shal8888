@@ -1,13 +1,13 @@
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shalani Avodya</h1>
-<h3 align="center">I'm a passionate Web & Mobile App Developer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shalani Avodya Anudini</h1>
+<h3 align="center">I'm a passionate Web Developer.</h3>
 
 ##  My Github Stats
 
-<a href="https://github.com/wook99/github-readme-stats"><img alt="wook99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wook99&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=0D1117" /></a>
-<a href="https://github.com/wook99/github-readme-stats"><img alt="wook99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/shal8888/github-readme-stats"><img alt="shal8888's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shal8888&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=0D1117" /></a>
+<a href="https://github.com/shal8888/github-readme-stats"><img alt="shal8888's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shal8888&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 ## Languages and Tools
@@ -31,6 +31,6 @@
 </p>
 
 ## Get In Touch
-<a href="https://www.linkedin.com/in/tharindi-hansika-6896881b6/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/shalani-avodya-anudini-1142ba1b9/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 <a href=""/></a>
-<a href="https://www.facebook.com/tharindi.hansika.37"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href="https://www.facebook.com/shalani.avodya.5"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
